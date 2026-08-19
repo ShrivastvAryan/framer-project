@@ -7,7 +7,7 @@ The main focus of the project is the dynamic **Courses** section, which fetches 
 ## Live Demo
 
 **Framer:**
-
+grounded-time-948793.framer.app/
 ---
 
 ## Features
